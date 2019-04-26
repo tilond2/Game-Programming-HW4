@@ -1,0 +1,4047 @@
+fileFormatVersion: 2
+guid: d5a667374ec980142921b8240fba344e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_0
+    21300002: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_1
+    21300004: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_2
+    21300006: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_3
+    21300008: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_4
+    21300010: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_5
+    21300012: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_6
+    21300014: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_7
+    21300016: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_8
+    21300018: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_9
+    21300020: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_10
+    21300022: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_11
+    21300024: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_12
+    21300026: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_13
+    21300028: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_14
+    21300030: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_15
+    21300032: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_16
+    21300034: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_17
+    21300036: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_18
+    21300038: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_19
+    21300040: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_20
+    21300042: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_21
+    21300044: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_22
+    21300046: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_23
+    21300048: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_24
+    21300050: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_25
+    21300052: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_26
+    21300054: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_27
+    21300056: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_28
+    21300058: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_29
+    21300060: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_30
+    21300062: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_31
+    21300064: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_32
+    21300066: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_33
+    21300068: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_34
+    21300070: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_35
+    21300072: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_36
+    21300074: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_37
+    21300076: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_38
+    21300078: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_39
+    21300080: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_40
+    21300082: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_41
+    21300084: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_42
+    21300086: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_43
+    21300088: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_44
+    21300090: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_45
+    21300092: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_46
+    21300094: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_47
+    21300096: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_48
+    21300098: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_49
+    21300100: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_50
+    21300102: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_51
+    21300104: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_52
+    21300106: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_53
+    21300108: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_54
+    21300110: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_55
+    21300112: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_56
+    21300114: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_57
+    21300116: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_58
+    21300118: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_59
+    21300120: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_60
+    21300122: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_61
+    21300124: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_62
+    21300126: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_63
+    21300128: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_64
+    21300130: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_65
+    21300132: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_66
+    21300134: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_67
+    21300136: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_68
+    21300138: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_69
+    21300140: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_70
+    21300142: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_71
+    21300144: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_72
+    21300146: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_73
+    21300148: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_74
+    21300150: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_75
+    21300152: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_76
+    21300154: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_77
+    21300156: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_78
+    21300158: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_79
+    21300160: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_80
+    21300162: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_81
+    21300164: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_82
+    21300166: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_83
+    21300168: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_84
+    21300170: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_85
+    21300172: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_86
+    21300174: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_87
+    21300176: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_88
+    21300178: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_89
+    21300180: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_90
+    21300182: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_91
+    21300184: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_92
+    21300186: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_93
+    21300188: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_94
+    21300190: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_95
+    21300192: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_96
+    21300194: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_97
+    21300196: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_98
+    21300198: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_99
+    21300200: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_100
+    21300202: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_101
+    21300204: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_102
+    21300206: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_103
+    21300208: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_104
+    21300210: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_105
+    21300212: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_106
+    21300214: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_107
+    21300216: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_108
+    21300218: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_109
+    21300220: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_110
+    21300222: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_111
+    21300224: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_112
+    21300226: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_113
+    21300228: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_114
+    21300230: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_115
+    21300232: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_116
+    21300234: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_117
+    21300236: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_118
+    21300238: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_119
+    21300240: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_120
+    21300242: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_121
+    21300244: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_122
+    21300246: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_123
+    21300248: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_124
+    21300250: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_125
+    21300252: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_126
+    21300254: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_127
+    21300256: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_128
+    21300258: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_129
+    21300260: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_130
+    21300262: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_131
+    21300264: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_132
+    21300266: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_133
+    21300268: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_134
+    21300270: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_135
+    21300272: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_136
+    21300274: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_137
+    21300276: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_138
+    21300278: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_139
+    21300280: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_140
+    21300282: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_141
+    21300284: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_142
+    21300286: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_143
+    21300288: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_144
+    21300290: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_145
+    21300292: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_146
+    21300294: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_147
+    21300296: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_148
+    21300298: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_149
+    21300300: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_150
+    21300302: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_151
+    21300304: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_152
+    21300306: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_153
+    21300308: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_154
+    21300310: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_155
+    21300312: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_156
+    21300314: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_157
+    21300316: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_158
+    21300318: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_159
+    21300320: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_160
+    21300322: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_161
+    21300324: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_162
+    21300326: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_163
+    21300328: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_164
+    21300330: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_165
+    21300332: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_166
+    21300334: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_167
+    21300336: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_168
+    21300338: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_169
+    21300340: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_170
+    21300342: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_171
+    21300344: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_172
+    21300346: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_173
+    21300348: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_174
+    21300350: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_175
+    21300352: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_176
+    21300354: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_177
+    21300356: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_178
+    21300358: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_179
+    21300360: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_180
+    21300362: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_181
+    21300364: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_182
+    21300366: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_183
+    21300368: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_184
+    21300370: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_185
+    21300372: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_186
+    21300374: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_187
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 956
+        width: 4
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d4e05ebf281854292054f77174085d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 956
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cee593df48988641ad4f59066e5524b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 954
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39267138f01003149b4227074b669025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 954
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b27c6c4d4d9d544d95c31eb0dec3c90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 954
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04808e0463e95804daefd7d8f8864268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 954
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b88f8cedbb5fff4795523c0efc184f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 954
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ad0760c4698404ca1f82b9bafb1385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 954
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1e369a0aa8cfd48a3fdd2c35a51322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 955
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8095e248088402045b63d82153895a3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 955
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0202f3e60fa23949bc191a742db25e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_10
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 955
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46449fad0d95df24393fb7d04e4c6ec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 955
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43f3eec00642fc45a4d73eb8b6d85d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_12
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 955
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64082eb4fecfafe469fbb16bcae064f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 917
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b44b40bb84a4348844fb157b7f1312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 917
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648b6c678a931a24d95c5c54ebff354f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 917
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9fe8a4f1ec120448c2666b6c032283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 878
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a763824da79b04a468ff5403c0b9f2dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 878
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f01a1782cb46cd4bbf99e4a0a0d928e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 878
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5035c54a316a9c74bb9c806bcd703210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 878
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff3a2024e376cc41be7f4da0544dd89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 878
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01168ec6123bc774a905621f183a213f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_21
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 878
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355903ba4b164b54e9ceb79069a6afd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 878
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b525a687de9aa448a547615f6e8765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 878
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0933c36ed1ae910468b04f6839ec6a22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_24
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 878
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2617610e79e7beb409fad417ad5b6b04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_25
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 878
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd911d1bc12332749b70c88af2bb8f84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 840
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce893c7d5ba82246afd5a7adfec2dfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 840
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c55c6d41ec1514e863e2c024dce62a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 840
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150d368c43322c24cb800520c1306b8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 840
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219d3fffda8acbc4c9f434ff6eb3a931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 840
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7ae2b614932f343b0e3c8331fb73c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 840
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a39b6107ecc2241891a58267b148af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_32
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 840
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce3433e4f5cff14097c1993f3a6f28d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_33
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 840
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01666b92f844204ca95f46cc9bca251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_34
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 840
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb86b9fe9199a9541b9f7f8c3ff402cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 796
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b77d0c7830d5e4fab9e6ed16fa3582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_36
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 796
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b371420611e506499deb54ffc915e86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 796
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9126d2f8ad8a1e84192059e92fffaee9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_38
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 796
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8108424d4fcb64408140ce7c3e50b2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_39
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 796
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365475a77da724347b2579d561de7eb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_40
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 796
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7660b3c7f65199418f51929cb64e272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_41
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 796
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a28dc9430123c488ee7e6174543b41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 796
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044c9f79a4422e64baa183125edbb1b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_43
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 796
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd8da9d2a956f84f9bf10ea49093b76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 761
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5da88a4e92547e40b969e4d0720d305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 760
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69d840aed2b33a4a9fd740d56671501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_46
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 761
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4287ed0ffc5b4542830cacce3d9b4a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_47
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 761
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84670246debfd6b48b555a3de6b2634b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 761
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a6ee0824abaa74ea30723c6a470395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_49
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 761
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e322b316330c14aad97a87d44a55df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_50
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 760
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d2bffd42e59c4488237598cbc538bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_51
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 761
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fa0b1a8ab0962458ee052d69ef3948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_52
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 761
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d53e9e549d27b4c9f70f1ee0faa479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 715
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ed6370c75aa45419a66f82d2338a7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_54
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 715
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9868a86553bb0d248b8f56e594edc035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_55
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 715
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b1719737640864584ca22e05f7b916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 715
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99081e6da6c8649488d25b68ff7f993e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_57
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 715
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f913681cf6e6cb488145d9428993d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_58
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 715
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc57cd2a1a01ee845b97b4c46cb935c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_59
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 715
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741f6e0a3f942bb41b705534e981df3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_60
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 715
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea16ef9d082dd8b4cba997ff25f23e79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_61
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 715
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61b0ab7cd47093478813d7c40c9c5b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_62
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 678
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76396bc9d372f9f4da044d70b47a21f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_63
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 677
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5e6d6d1d678ac4481588aa2d5471fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_64
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 680
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06accd0b019a944c9b2a6676a9be139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_65
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 682
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ae0e0d12555eb42a7333de09745317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_66
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 680
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0651a22461482489d3f913c9ae11d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_67
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 681
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaa53aea537a1143bb7f71dd1aba5e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_68
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 682
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9110c91210ec96f46b1be6c38e5a9b8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_69
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 681
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6793ef2aa1d365e47b71787e6f0f12e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_70
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 682
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda75a5d13d9cb14f9ff852c82cefb0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_71
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 684
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506e75c73670b4e47a1c408217a1f52d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_72
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 635
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93752fad43ab964f8f516d51cff8bd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 635
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd09d614222f7541af4235060e0a960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_74
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 635
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409bcdd361b85da4b806ad82671ada70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_75
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 633
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617f08f47d85ff940a3c9086c6186566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_76
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 633
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ebdf0e5bdc3b548be0eb2036e97d48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_77
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 633
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d88d560a0512d24ca27f59b7431a03e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_78
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 633
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf48e69d1373d642aaaa021c6df1768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_79
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 633
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaa1a853db897e4b8c7dfbfcbb38ea6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_80
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 593
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a440203b68ed47bb6778d3052597b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_81
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 593
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bbacb400c18ca4d85b28404e34f4e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_82
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 593
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7ea1f475ff8f74c94cf460a80019bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_83
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 593
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250f8ee0fee525540b7f7c33b5e48856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_84
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 593
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2648256f4b1be6f4aaf3fd4719feaf1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_85
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 593
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e787324e0fda032489cce4486b8cb594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_86
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 593
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f2d93d7a326a54bb1d948107de4c74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_87
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 593
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ff5cefafa46a649bcaccc82012b021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_88
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 543
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73c3f50333f67f4c84246a952542381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_89
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 545
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f781fa68130d09542af7d5a735c5895a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_90
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 539
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b8cd79d4cf5e64e9b9124e6bccc644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_91
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 530
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4c8b9198e308448a6d81f32bb08662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_92
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 528
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e507c6004708f54f8ad0fef28ca7aee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_93
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 527
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778435adbeb370a459ef0daa66b71e83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_94
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 533
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f599ee890b7fe5a42aeecec4545ec09a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_95
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 543
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45ff8ded5ac5a84e88a83190f759190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_96
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 542
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42423f40ca4c4c41940beed342f436d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_97
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 486
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58afe8b452149a4f982a63e06922227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_98
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 486
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8317ba94a0d04a34aa24a91341cd293d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 486
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c23e91c949eb314bb4e68939305c8ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_100
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 486
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c155c2856a43c847b9a7d070198710e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_101
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 486
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39997f6743d04db41ab2f7f09991fcfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_102
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 486
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db29f4d4cde43d4e8ef84bf0b4afb1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_103
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 444
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beb52b63754643419e758536029645e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_104
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 444
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69134b2ba33e1048af493cc29be6869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_105
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 444
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8365fa3f6739b4b9464a8852789796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_106
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 445
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a07b7ff6cdee5b418f60f6f8e0c6317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_107
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 447
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849ae1e5cfcbc7940b6e3030fd23413a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_108
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 447
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b9395c9f6a74e458685dedb598bb94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_109
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 404
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a85b7fd12fe24642bf8f2bac409f4ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_110
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 404
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d62aa58decad00449e6037ea51243bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_111
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 405
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97291e30bed3b4a4aa51bd99f1595a5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_112
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 405
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376839dcae166a14ba3d194e2ad3afa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_113
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 405
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e06a1b302fc39f42bc64a7557bac871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_114
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 405
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdf9304499aea247a6cd1801769d6ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_115
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 405
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afd3ccb4cfbed64aadfcc47f14b88b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_116
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 405
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee75a8f6d715c840a093325ff9cc16f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_117
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 404
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b5ef8778c16564885f235520add42a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_118
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 367
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad817351dced0a848bdd7cb549c88ff7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_119
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 365
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b610e48069ff4a04bbdb599a9b68f958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_120
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 365
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1713d4986c29cc248acab44b3b761668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_121
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 365
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a265b127ed10c44b0395fa175bf85c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_122
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 367
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd26541a7ab017e45855e1b43e9694ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_123
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 367
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887a8eed6c4e2ec438b09492eeda32cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_124
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 367
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b52e1f6c221c7b4bbeac5214e54e801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_125
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 367
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160e28c3fbf5ca74fb6ef188cf2a5c6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_126
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 367
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b37a0f5b44a9141a61870f93080ee4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_127
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 372
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8498a2c7adec1884f88976c73a1c592d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_128
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 326
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d3c69188eec164fb30e05ad57f0193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_129
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 326
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d779d1a629534e40aa3e83289886ed0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_130
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 326
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a357774a2b8f814bba64a0f6b01a8f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_131
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 326
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7ab83d3e35c124eb9687838c6dd0c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_132
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 326
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98fd6b09e563574692273b7dbb5f27a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_133
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 326
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25d04acd4a39f0408008f534bce6164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_134
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 326
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fab3a611342af94a9fb2499aea05e56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_135
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 326
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef00d31b0a6e62148a813c28828fda1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_136
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 326
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9502d68023ae0934186b2a2d3d5b704d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_137
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 292
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529ed32594808464f8918f2ec3698be3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_138
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 292
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09008db641b15e94eb6811da5e449d7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_139
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 292
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6e02b869710334bbb249142acac21e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_140
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 292
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecae6cf16bd4f7438aebcdd03c420b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_141
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 292
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fce56d707bd6c49846f834a643646c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_142
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 292
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255838f5eafc89047b205d0d28e09545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_143
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 292
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49469dcfece2f74eb034928007ae4c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_144
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 248
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a987776cf30294ca53dd77270aa62b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_145
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 248
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a39a04b041d0047b84bdf18b0c9841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_146
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 248
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1477955053a8f9a42992fcfd5f143173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_147
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 248
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec90736e5314d524cb7e6a4e875eee3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_148
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 248
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dce92bbc51a8543b2d379b02b3d75e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_149
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 248
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e2d1bb49a309142afba9433a89cbb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 248
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960be2934105cd44db8f893449ec9be8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_151
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 208
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a5abca435cf3c4090ffeb1a50cea81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_152
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 208
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6955ec01b8ca76540a3395b8025df445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_153
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 208
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0950354e4802e33488db367d6d430888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_154
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 208
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf68d00a82dadd418f7f673b11240b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_155
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 209
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba7ca5a3ea4eb446958d39ebcd90f4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_156
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 208
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf261fed4582f12448e0a99161b169e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_157
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 168
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01e5ea9ffb32b64d8d91d6e1c078f97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_158
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 168
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234ddb50c4b62654aad2f5607069d236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_159
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 168
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2865b0be6a2b674c9cc0fe8c2b3af3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_160
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 168
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843a94090856d584d899f0770a2a4cf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_161
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 168
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448ed01b21e83a840b049944bb5c7618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_162
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 169
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7623abf9fd71cd9468edfcc3d7e4f455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_163
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 132
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea50e2caa2d922343a22d6b9ee716c03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_164
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 132
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0472f445518bc48b8b5d20864f1b1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_165
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 100
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec68edd2b5802f4583639317bafe18f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_166
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 100
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ccac8e0e385d2468399569486ba959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_167
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 100
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b247d25a87b159648bf70a57b559cc37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_168
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 100
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4cc58faa30d6d47952d83ad804d426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_169
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 61
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a207e09e915d1f4fa0aa680ad23aa55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_170
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 61
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d2cb33696153144b14c1f241fa7601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_171
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 61
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6f0d5f9d850ba4ca8ec196587268eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_172
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 61
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e95c0402f18ee48abbc089c7bbaa82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_173
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 61
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f968d8c2a7dd8824c9dea9c1bcccbbbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_174
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 61
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a28da264f03760409c6b8ff2167ceb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_175
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 60
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02de704fb1242d14aa0a01b1fd417c1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_176
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 60
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b798ea560f085454c9bfcc281ad3e744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_177
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 59
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3855027e4d198e145b6114fcd9fc2f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_178
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 62
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be5514209fb44342afea3c40dcd67a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_179
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 65
+        width: 4
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772b2bff067c3c74abc5d2490a61fd53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_180
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 59
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30d01aec0921be4fbe4253e16676a2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_181
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 45
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6865a3063e00a264ba0586e35a511dad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_182
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 43
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417120ce3ec855644be464872fc70922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_183
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 40
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54fc1bc4d427d94197887c660346579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_184
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 40
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673066a27e5e1e746a5cee638ea8cf0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_185
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 42
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e2af9dfe06ccf429774e0369fb1570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_186
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 4
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6415a22b4ea41b64498788d5bcfba9d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man X Customs - Zero Edited Megaman Xtreme2_187
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 4
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aae745aec551d428ef7f2fd2baf8a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b0e1d65fa9a2bd44a9ce4269f0479adf
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
