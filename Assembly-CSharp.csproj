@@ -79,6 +79,7 @@
     <Compile Include="Assets\Scripts\HorizontalPlatform.cs" />
     <Compile Include="Assets\Scripts\KillPlatform.cs" />
     <Compile Include="Assets\Scripts\MoveForward.cs" />
+    <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\Pause.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\SetVolume.cs" />

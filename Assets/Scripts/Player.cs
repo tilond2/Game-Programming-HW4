@@ -154,7 +154,7 @@ public class Player : MonoBehaviour
     }
     void OnCollisionStay2D(Collision2D collision)
     {
-        Debug.Log("Landed");
+        
         if (collision.gameObject.tag == "Ground")
         {
             isGrounded = true;

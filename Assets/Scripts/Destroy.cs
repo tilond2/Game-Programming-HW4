@@ -14,8 +14,16 @@ public class Destroy : MonoBehaviour
     {
         if (coll.gameObject.name== "Player" )
         {
-
-            GameManager.GetComponent<GameManager>().ScoreUpdate(100);
+            if (gameObject.tag == "Enemy")
+            {
+                GameManager.GetComponent<GameManager>().ScoreUpdate(-200);
+            }
+            else
+            {
+                GameManager.GetComponent<GameManager>().ScoreUpdate(100);
+            }
+        
+            
             Destroy(gameObject);
         }
         
