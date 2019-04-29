@@ -19,14 +19,14 @@ public class HorizontalPlatform : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (origX - transform.position.y > distance)
+        if (origX - transform.position.x > distance)
         {
             useSpeed = directionSpeed; //flip direction
         }
-        else if (origX - transform.position.y < -distance)
+        else if (origX - transform.position.x < -distance)
         {
             useSpeed = -directionSpeed; //flip direction
         }
-        transform.Translate(0, useSpeed * Time.deltaTime, 0);
+        transform.Translate(useSpeed * Time.deltaTime,0 , 0);
     }
 }

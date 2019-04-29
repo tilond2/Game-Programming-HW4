@@ -66,8 +66,9 @@ public class Player : MonoBehaviour
         }
         else { return false; }
     }
-    
+
     // Update is called once per frame
+    /*
     private void FixedUpdate()
     {
         if (Grounded())
@@ -80,7 +81,7 @@ public class Player : MonoBehaviour
             isGrounded = false;
             animator.SetBool("Grounded", false);
         }
-    }
+    }*/
     void Update()
     {
         if (Input.GetKeyDown("left") || Input.GetKeyDown("a"))
@@ -145,6 +146,21 @@ public class Player : MonoBehaviour
         if (collision.gameObject.tag == "Enemy")
         {
             hit();
+        }
+        if (collision.gameObject.tag == "Coin")
+        {
+            sound.PlayOneShot(sound.clip);
+        }
+    }
+    void OnCollisionStay2D(Collision2D collision)
+    {
+        Debug.Log("Landed");
+        if (collision.gameObject.tag == "Ground")
+        {
+            isGrounded = true;
+            animator.SetBool("Grounded", true);
+            // transform.SetParent( collision.transform,false);
+
         }
     }
     void OnCollisionExit2D(Collision2D collision)

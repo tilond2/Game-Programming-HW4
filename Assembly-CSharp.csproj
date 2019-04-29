@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\DestroyOffscreen.cs" />
     <Compile Include="Assets\Scripts\DieOffscreen.cs" />
     <Compile Include="Assets\Scripts\EndGame.cs" />
+    <Compile Include="Assets\Scripts\EnemyMove.cs" />
     <Compile Include="Assets\Scripts\EnterName.cs" />
     <Compile Include="Assets\Scripts\Fruit.cs" />
     <Compile Include="Assets\Scripts\FruitDrop.cs" />
