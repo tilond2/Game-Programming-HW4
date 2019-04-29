@@ -5,7 +5,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public GameObject bullet;
-    public Rigidbody2D rb;
+    Rigidbody2D rb;
     GameObject GameManager;
     public float speed = 10f, speedDecay = 10f;
     private AudioSource sound, sound2;
@@ -16,6 +16,9 @@ public class Player : MonoBehaviour
     float invuln = 0f;
     float cooldownTimer = 0;
     Animator animator;
+    public float jumpForce = 10f;
+    bool isGrounded;
+    float distToGround;
 
     public Weapon CurrentWeapon;
 
@@ -45,6 +48,7 @@ public class Player : MonoBehaviour
     void Start()
     {
         sound = this.GetComponent<AudioSource>();
+        sound.volume=0.1f;
         music = GameObject.Find("BGAudio");
         GameManager = GameObject.Find("GameManager");
         sound2 = music.GetComponent<AudioSource>();
@@ -52,8 +56,31 @@ public class Player : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
     }
-
+    bool Grounded()
+    {
+        distToGround = GetComponent<CircleCollider2D>().bounds.extents.y;
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, -Vector2.up, distToGround + 0.02f);
+        if (hit.collider != null)
+        {
+            return true;
+        }
+        else { return false; }
+    }
+    
     // Update is called once per frame
+    private void FixedUpdate()
+    {
+        if (Grounded())
+        {
+            isGrounded = true;
+            animator.SetBool("Grounded", true);
+        }
+        else
+        {
+            isGrounded = false;
+            animator.SetBool("Grounded", false);
+        }
+    }
     void Update()
     {
         if (Input.GetKeyDown("left") || Input.GetKeyDown("a"))
@@ -70,20 +97,26 @@ public class Player : MonoBehaviour
         //Debug.Log("invuln = " + invuln);
         invuln -= Time.deltaTime;
         cooldownTimer -= Time.deltaTime;
-        if (Input.GetKey("space")){
-            rb.AddForce(transform.up * 5f);
+        if (Input.GetButtonDown("Jump"))
+        {
+            if (isGrounded){
+                rb.velocity = Vector2.up * jumpForce;
+            }
             
-            //fire();
+        }
+        if (rb.velocity.y < 0)
+        {
+            rb.velocity += Vector2.up * Physics2D.gravity.y * (2.5f - 1f) * Time.deltaTime;
+        }
+        else if (rb.velocity.y > 0 && !Input.GetButton("Jump"))
+        {
+            rb.velocity += Vector2.up * Physics2D.gravity.y * (2.0f - 1f) * Time.deltaTime;
         }
         float value = Input.GetAxis("Vertical");
         float move = Input.GetAxis("Horizontal");
         float faster = Input.GetAxis("Fire3");
         if (faster != 0) value = value * 1.5f;
-        if (value != 0)
-        {
-            value = 40f*value / speedDecay;
-            transform.Translate(Vector2.up * -value * Time.deltaTime);
-        }
+        
         if (move != 0)
         {
             Vector2 position = this.transform.position;
@@ -99,35 +132,62 @@ public class Player : MonoBehaviour
             
 
     }
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        Debug.Log("Landed");
+        if (collision.gameObject.tag == "Ground")
+        {
+            isGrounded = true;
+            animator.SetBool("Grounded", true);
+           // transform.SetParent( collision.transform,false);
+
+        }
+        if (collision.gameObject.tag == "Enemy")
+        {
+            hit();
+        }
+    }
+    void OnCollisionExit2D(Collision2D collision)
+    {
+        Debug.Log("Jumping");
+        if (collision.gameObject.tag == "Ground")
+        {
+            isGrounded = false;
+            animator.SetBool("Grounded", false);
+            //transform.SetParent(null);
+        }
+    }
     void OnTriggerEnter2D(Collider2D coll)
     {
         Debug.Log("Player touched");
         if (coll.gameObject.tag == "Enemy")
         {
-            
-            if(invuln <= 0)
+            hit();          
+        }
+    }
+    public void hit()
+    {
+        if (invuln <= 0)
+        {
+            health--;
+            if (health > 0)
             {
-                health--;
-                if (health > 0)
-                {
-                    GameManager.GetComponent<GameManager>().startRespawn();
-                    invuln = 4f;
-                }
-                else
-                {
-                    GameManager.GetComponent<GameManager>().startDie();
-                    invuln = 2f;
-                }
-                
-                GameManager.GetComponent<GameManager>().LifeUpdate();
-                
+                GameManager.GetComponent<GameManager>().startRespawn();
+                invuln = 2f;
             }
-           
-            if (!mute)
+            else
             {
-                sound.PlayOneShot(sound.clip);
+                GameManager.GetComponent<GameManager>().startDie();
+                invuln = 2f;
             }
-            
+
+            GameManager.GetComponent<GameManager>().LifeUpdate();
+
+        }
+
+        if (!mute)
+        {
+            sound.PlayOneShot(sound.clip,0.1f);
         }
     }
     public IEnumerator die()
@@ -168,8 +228,6 @@ public class Player : MonoBehaviour
             CurrentWeapon.bullet.transform.rotation *= Quaternion.Euler(0, 0, -90f);
             GameObject shot = CurrentWeapon.bullet;
         }
-        
-
     }
     public void muteSound()
     {

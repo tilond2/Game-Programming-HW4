@@ -44,7 +44,7 @@ public class GameManager : MonoBehaviour
     }
     private void Update()
     {
-        Debug.Log("time = " + Time.time);
+        //Debug.Log("time = " + Time.time);
     }
 
     // Update is called once per frame
@@ -81,7 +81,7 @@ public class GameManager : MonoBehaviour
     {
         Debug.Log("dying");
         Destroy(player);
-        sound.PlayOneShot(sound.clip);
+        sound.PlayOneShot(sound.clip,0.1f);
         yield return new WaitForSeconds(2f);
 
     }

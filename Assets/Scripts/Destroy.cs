@@ -10,9 +10,9 @@ public class Destroy : MonoBehaviour
         GameManager = GameObject.Find("GameManager");
     }
     // Start is called before the first frame update
-    void OnTriggerEnter2D(Collider2D coll)
+    void OnCollisionEnter2D(Collision2D coll)
     {
-        if ((coll.gameObject.name!= "Player" || gameObject.tag == "Enemy") && coll.gameObject.name!=gameObject.name)
+        if (coll.gameObject.name== "Player" )
         {
             if (coll.gameObject.tag != "Enemy")
             {
